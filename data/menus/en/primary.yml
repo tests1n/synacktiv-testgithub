@@ -1,0 +1,12 @@
+---
+title: Main menu
+items:
+- title: Actualités
+  target: "/en/actualites/"
+  kind: page
+  children: []
+- title: Équipe
+  target: "/en/equipe/"
+  kind: page
+  children: []
+

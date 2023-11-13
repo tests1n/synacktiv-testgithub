@@ -6,3 +6,15 @@ fr:
   languageCode: fr
   languageName: French
   permalinks:
+    posts: /actualites/:year-:month-:day-:slug/
+    persons: /equipe/:slug/
+    authors: /equipe/:slug/actualites/
+en:
+  title: testgithub
+  contentDir: content/en
+  languageCode: en
+  languageName: English
+  permalinks:
+    posts: /actualites/:year-:month-:day-:slug/
+    persons: /equipe/:slug/
+    authors: /equipe/:slug/actualites/
